@@ -1,0 +1,14 @@
+.mark,
+.gift {
+	font-style: "Helvitica", "Times New Roman", sans-serif;
+	font-size: 28px;
+
+}
+.mark {
+	background-color: black;
+	color: white;
+}
+
+.gift {
+	background-color: yellow;
+}
